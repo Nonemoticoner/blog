@@ -11,7 +11,7 @@ title:            'Theology of Code'
 tagline:          'Nonemoticoner&rsquo;s blog'
 description:      'Nonemoticoner&rsquo;s blog about Computer Science related technologies.'
 url:              http://nonemoticoner.github.io
-baseurl:          /blog
+baseurl:          /blog/
 
 author:
   name:           'Nonemoticoner'
